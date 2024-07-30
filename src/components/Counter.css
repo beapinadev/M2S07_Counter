@@ -1,0 +1,23 @@
+.counter-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    height: 100vh;
+    gap: 15px;
+}
+
+.counter-content span {
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.button {
+    padding: 30px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(209, 222, 243);
+    border: rgb(0, 0, 0) solid 1px;
+
+}

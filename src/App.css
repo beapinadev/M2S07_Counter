@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(to right top, #f2b2d7, #fdb5c1, #fcbeb0, #f1c8a9, #e2d3ac, #d9d9ad, #cee0b1, #c0e6ba, #b1ebbb, #9ef1bf, #84f6c7, #5ffbd2);
+
+}
+
+.read-the-docs {
+  color: #888;
+}
